@@ -1,0 +1,1 @@
+This program gives you the possibility to play Rock, Paper, Scissors with the computer. You will give your choice to the computer and then as your response you will receive an image of either rock, paper ou scissors.
